@@ -1,0 +1,18 @@
+{
+    "name": "componentsforyii2/aliyun-oss",
+    "description": "阿里云OSS对象存储组件",
+    "type": "library",
+    "require": {
+        "aliyuncs/oss-sdk-php": "~2.0"
+    },
+    "authors": [
+        {
+            "name": "Yuanshuai",
+            "email": "yuanshuai@mybns.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"componentsforyii2\\aliyunoss\\": ""}
+    }
+}
